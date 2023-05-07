@@ -20,7 +20,7 @@ function Topbar() {
             aria-describedby="basic-addon2"
           />
           <div className="input-group-append">
-            <button className="btn btn-primary" type="button">
+            <button className="btn btn-primary" type="bgutton">
               <i className="fas fa-search fa-sm"></i>
             </button>
           </div>
